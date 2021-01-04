@@ -18,4 +18,6 @@ License
 
 These samples and templates are all licensed under Apache 2.0.
 These samples and templates are all licensed under Apache 3.0.
+These samples and templates are all licensed under Apache 4.0.
+These samples and templates are all licensed under Apache 5.0.
 
