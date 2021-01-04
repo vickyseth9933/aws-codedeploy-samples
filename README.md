@@ -17,4 +17,5 @@ License
 =======
 
 These samples and templates are all licensed under Apache 2.0.
+These samples and templates are all licensed under Apache 3.0.
 
